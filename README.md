@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/th/id/OGC.f67616b7c443a6efaa0280014af7e069?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f97%2f15%2fc8%2f9715c8a695e64d0c6b664329387a231e.gif&ehk=oOK3N8QpEAvNP5ZW7Az%2bCIwVIn%2fBNEN%2brIq92jTi9k0%3d)]
+[![MasterHead](https://i.pinimg.com/originals/89/6c/a5/896ca51796048bfa7d9d7f47b1ce04b4.gif)]
 <h1 align="center">Hi 👋, I'm Giovanni Opiyo</h1>
 <h3 align="center">Student on a Python Journey</h3>
 
